@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<videos>
+  <video>
+    <name>Gossip</name>
+	<url>Puppetji_Gossip.flv</url>
+  </video>
+  <video>
+    <name>One</name>
+	<url>Puppetji_One.flv</url>
+  </video>
+  <video>
+    <name>Seeing</name>
+	<url>Puppetji_Seeing.flv</url>
+  </video>
+  <video>
+    <name>Truth</name>
+	<url>Puppetji_TruthAccording2Puppetji.flv</url>
+  </video>
+</videos>  

@@ -1,0 +1,61 @@
+<!DOCTYPE squeeze_project>
+<Project StartOnLoad="False" Version="4.0">
+    <Job Name="Job [22:22:49.249 - 10:23:05]">
+        <Source FileName="C:\Documents and Settings\William Hanna\My Documents\FoundationFlashVideo\Chapter 3\Exercise\tortoise.MOV">
+            <IsCustomDestination Value="False"/>
+            <Output DefaultName="FLV_384K_Stream.xss" Id="60343888" IsMBR="False" Name="SqueezeTest" OutputFormat="FLVOutputFormat" SubOutputFormat="None" UsingCustomFilter="False">
+                <FileName Value="C:\Documents and Settings\William Hanna\My Documents\FoundationFlashVideo\Chapter 3\Exercise\tortoise384K_Stream.flv"/>
+                <Status Value="Ready"/>
+                <UseCustomVideo Value="False"/>
+                <UseCustomAudio Value="False"/>
+                <UseCustomFilter Value="False"/>
+                <UseCustomPlayerOptions Value="False"/>
+                <UseCustomDestinations Value="False"/>
+                <UseCustomMarkers Value="False"/>
+                <UseCustomMarkers Value="False"/>
+                <EncodeVideo Value="True"/>
+                <EncodeAudio Value="True"/>
+                <UsePreFilter Value="True"/>
+                <UsePlaybackConfiguration Value="False"/>
+                <UseFilesizeConstraint Value="False"/>
+                <FileSizeConstraint Value="0"/>
+                <Broadcast Enable="True" Port="1240780"/>
+                <Filter name="">
+                    <WatermarkEnable Value="False"/>
+                    <CroppingSize Bottom="0" Left="0" Right="0" Top="0"/>
+                </Filter>
+                <PlayerOptions Name="" OutputFormat="FLVOutputFormat">
+                    <InOutPointsLocallyAssigned Value="True"/>
+                    <InOutPoints Enable="True" InPoint="0" OutPoint="133880" TimeScale="600"/>
+                </PlayerOptions>
+                <AudioCompressor codec="Fraunhofer MP3">
+                    <DataRate Value="40000"/>
+                    <SampleRate Value="22050"/>
+                    <SampleSize Value="16"/>
+                    <ChannelMode Value="ChannelModeMono"/>
+                    <CodecFourCC Value="1836253269"/>
+                    <PacketSizeEnable Value="False"/>
+                    <PacketSize Value="1450"/>
+                    <MediaKeyEnable Value="False"/>
+                    <MediaKey Value=""/>
+                </AudioCompressor>
+                <VideoCompressor codec="SPARKVideoCodec">
+                    <DataRate Value="430080"/>
+                    <FrameRate Value="-1"/>
+                    <OutputSize Height="240" Width="320"/>
+                    <MaintainSourceAspectRatioEnable Value="True"/>
+                    <BitRateMode Value="BitRateModeSorensonTwoPassVBR"/>
+                    <NumDisposableFrames Value="0"/>
+                    <CompressionSpeed Value="0"/>
+                    <DropFramesEnable Value="False"/>
+                    <KeyFrameRate Value="300"/>
+                    <AutoKeyFrameEnable Value="1"/>
+                    <AutoKeyFrameSensitivity Value="50"/>
+                    <MinQualityEnable Value="False"/>
+                    <MinQualityValue Value="50"/>
+                    <ImageSmoothingEnable Value="False"/>
+                </VideoCompressor>
+            </Output>
+        </Source>
+    </Job>
+</Project>

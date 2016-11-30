@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<FLVCoreCuePoints>
+
+	<CuePoint>
+        <Time>101000</Time>
+        <Type>event</Type>
+        <Name>fl.video.caption.2.0.0</Name>
+        <Parameters>
+            <Parameter>
+                <Name>text</Name>
+                <Value><![CDATA[<font face="Arial, Helvetica, _sans" size="12"><i>Popeye:</i> Wha ... Wha... What happened?</font>]]></Value>
+            </Parameter>
+            <Parameter>
+                <Name>endTime</Name>
+                <Value>103.85</Value>
+            </Parameter>
+        </Parameters>
+    </CuePoint>
+
+	 <CuePoint>
+        <Time>122000</Time>
+        <Type>event</Type>
+        <Name>fl.video.caption.2.0.1</Name>
+        <Parameters>
+            <Parameter>
+                <Name>text</Name>
+                <Value><![CDATA[<font face="Arial, Helvetica, _sans" size="12"><i>Mouse:</i> Mouse complains about Popeye's snoring.</font>]]></Value>
+            </Parameter>
+            <Parameter>
+                <Name>endTime</Name>
+                <Value>130.43</Value>
+            </Parameter>
+        </Parameters>
+    </CuePoint>
+
+    <CuePoint>
+        <Time>132000</Time>
+        <Type>event</Type>
+        <Name>fl.video.caption.2.0.2</Name>
+        <Parameters>
+            <Parameter>
+                <Name>text</Name>
+                <Value><![CDATA[<font face="Arial, Helvetica, _sans" size="12"><i>Popeye:</i> I gotta gets me some sleep.</font>]]></Value>
+            </Parameter>
+            <Parameter>
+                <Name>endTime</Name>
+                <Value>135.0</Value>
+            </Parameter>
+        </Parameters>
+    </CuePoint>
+
+    <CuePoint>
+        <Time>136000</Time>
+        <Type>event</Type>
+        <Name>fl.video.caption.2.0.3</Name>
+        <Parameters>
+            <Parameter>
+                <Name>text</Name>
+                <Value><![CDATA[<font face="Arial, Helvetica, _sans" size="12"><i>Popeye:</i> Go peddle your cheese outside.</font>]]></Value>
+            </Parameter>
+            <Parameter>
+                <Name>endTime</Name>
+                <Value>139.14</Value>
+            </Parameter>
+        </Parameters>
+    </CuePoint>
+
+    <CuePoint>
+        <Time>175000</Time>
+        <Type>event</Type>
+        <Name>fl.video.caption.2.0.4</Name>
+        <Parameters>
+            <Parameter>
+                <Name>text</Name>
+                <Value><![CDATA[<font face="Arial, Helvetica, _sans" size="12"><i>Popeye:</i> Huh?????</font>]]></Value>
+            </Parameter>
+            <Parameter>
+                <Name>endTime</Name>
+                <Value>176.9</Value>
+            </Parameter>
+        </Parameters>
+    </CuePoint>
+
+    <CuePoint>
+        <Time>178000</Time>
+        <Type>event</Type>
+        <Name>fl.video.caption.2.0.5</Name>
+        <Parameters>
+            <Parameter>
+                <Name>text</Name>
+                <Value><![CDATA[<font face="Arial, Helvetica, _sans" size="12"><i>Policeman:</i> Oh. Parking next to a hydrant, eh?</font>]]></Value>
+            </Parameter>
+            <Parameter>
+                <Name>endTime</Name>
+                <Value>182.015</Value>
+            </Parameter>
+        </Parameters>
+    </CuePoint>
+
+    <CuePoint>
+        <Time>229000</Time>
+        <Type>event</Type>
+        <Name>fl.video.caption.2.0.6</Name>
+        <Parameters>
+            <Parameter>
+                <Name>text</Name>
+                <Value><![CDATA[<font face="Arial, Helvetica, _sans" size="12"><i>Popeye:</i> I hates to this I has to get some shut eye.</font>]]></Value>
+            </Parameter>
+            <Parameter>
+                <Name>endTime</Name>
+                <Value>233.25</Value>
+            </Parameter>
+        </Parameters>
+    </CuePoint>
+
+    <CuePoint>
+        <Time>246000</Time>
+        <Type>event</Type>
+        <Name>fl.video.caption.2.0.7</Name>
+        <Parameters>
+            <Parameter>
+                <Name>text</Name>
+                <Value><![CDATA[<p align="center"><font face="Arial, Helvetica, _sans" size="20" color="#FF0000"><i>Popeye: </i>Got him!</font></p>]]></Value>
+            </Parameter>
+            <Parameter>
+                <Name>endTime</Name>
+                <Value>247.3</Value>
+            </Parameter>
+            <Parameter>
+                <Name>backgroundColor</Name>
+                <Value>0x01016D</Value>
+            </Parameter>
+        </Parameters>
+    </CuePoint>
+
+    <CuePoint>
+        <Time>248000</Time>
+        <Type>event</Type>
+        <Name>fl.video.caption.2.0.8</Name>
+        <Parameters>
+            <Parameter>
+                <Name>text</Name>
+                <Value><![CDATA[<font face="Arial, Helvetica, _sans" size="12"><i>Mouse:</i> Mouse makes a series of pain sounds.</font>]]></Value>
+            </Parameter>
+            <Parameter>
+                <Name>endTime</Name>
+                <Value>255.8</Value>
+            </Parameter>
+            <Parameter>
+                <Name>backgroundColor</Name>
+                <Value>0x000000</Value>
+            </Parameter>
+        </Parameters>
+    </CuePoint>
+
+    <CuePoint>
+        <Time>256000</Time>
+        <Type>event</Type>
+        <Name>fl.video.caption.2.0.9</Name>
+        <Parameters>
+            <Parameter>
+                <Name>text</Name>
+                <Value><![CDATA[<font face="Arial, Helvetica, _sans" size="12"><i>Popeye:</i> Boy, I hopes I didn't hurted him too much.</font>]]></Value>
+            </Parameter>
+            <Parameter>
+                <Name>endTime</Name>
+                <Value>258.592</Value>
+            </Parameter>
+        </Parameters>
+    </CuePoint>
+
+	<CuePoint>
+        <Time>264000</Time>
+        <Type>event</Type>
+        <Name>fl.video.caption.2.0.10</Name>
+        <Parameters>
+            <Parameter>
+                <Name>text</Name>
+                <Value><![CDATA[<font face="Arial, Helvetica, _sans" size="12"><i>Popeye:</i> YOUCH!!!!!!!</font>]]></Value>
+            </Parameter>
+            <Parameter>
+                <Name>endTime</Name>
+                <Value>266.8</Value>
+            </Parameter>
+        </Parameters>
+	</CuePoint>
+
+	<CuePoint>
+        <Time>273000</Time>
+        <Type>event</Type>
+        <Name>fl.video.caption.2.0.11</Name>
+        <Parameters>
+            <Parameter>
+                <Name>text</Name>
+                <Value><![CDATA[<font face="Arial, Helvetica, _sans" size="12"><i>Mouse:</i> Mouse is giggling.</font>]]></Value>
+            </Parameter>
+            <Parameter>
+                <Name>endTime</Name>
+                <Value>280.5</Value>
+            </Parameter>
+        </Parameters>
+	</CuePoint>
+
+	<CuePoint>
+        <Time>282000</Time>
+        <Type>event</Type>
+        <Name>fl.video.caption.2.0.12</Name>
+        <Parameters>
+            <Parameter>
+                <Name>text</Name>
+                <Value><![CDATA[<font face="Arial, Helvetica, _sans" size="12"><i>Popeye:</i> That's all I can stands, I can't stands no more!</font>]]></Value>
+            </Parameter>
+            <Parameter>
+                <Name>endTime</Name>
+                <Value>286.0</Value>
+            </Parameter>
+        </Parameters>
+	</CuePoint>
+
+	<CuePoint>
+        <Time>305000</Time>
+        <Type>event</Type>
+        <Name>fl.video.caption.2.0.13</Name>
+        <Parameters>
+            <Parameter>
+                <Name>text</Name>
+                <Value><![CDATA[<font face="Arial, Helvetica, _sans" size="12"><i>Popeye:</i> That ought to keep that mouse out of the house.</font>]]></Value>
+            </Parameter>
+            <Parameter>
+                <Name>endTime</Name>
+                <Value>307.89</Value>
+            </Parameter>
+        </Parameters>
+	</CuePoint>
+
+	<CuePoint>
+        <Time>360000</Time>
+        <Type>event</Type>
+        <Name>fl.video.caption.2.0.14</Name>
+        <Parameters>
+            <Parameter>
+                <Name>text</Name>
+                <Value><![CDATA[<font face="Arial, Helvetica, _sans" size="12"><i>Mouse:</i> Mouse is sound asleep and snoring louder than Popeye was. </font>]]></Value>
+            </Parameter>
+            <Parameter>
+                <Name>endTime</Name>
+                <Value>373</Value>
+            </Parameter>
+        </Parameters>
+	</CuePoint>
+
+</FLVCoreCuePoints>

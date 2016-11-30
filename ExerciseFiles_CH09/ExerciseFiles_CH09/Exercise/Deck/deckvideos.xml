@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<videos>
+  <video id="1">
+    <name>Gossip</name>
+	<filename>Puppetji_Gossip.flv</filename>
+	<thumbnail>Gossip.jpg</thumbnail>
+  </video>
+  <video id="2">
+    <name>One</name>
+	<filename>Puppetji_One.flv</filename>
+	<thumbnail>One.jpg</thumbnail>
+  </video>
+  <video id="3">
+    <name>Seeing</name>
+	<filename>Puppetji_Seeing.flv</filename>
+	<thumbnail>Seeing.jpg</thumbnail>
+  </video>
+  <video id="4">
+    <name>Truth</name>
+	<filename>Puppetji_TruthAccording2Puppetji.flv</filename>
+	<thumbnail>Truth.jpg</thumbnail>
+  </video>
+  
+</videos>
